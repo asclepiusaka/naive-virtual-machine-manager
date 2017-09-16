@@ -1,0 +1,2277 @@
+Script started on Wed 13 Sep 2017 07:25:57 AM PDT
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./moi[Knitor.py 
+one: ([(0, 1, 50180000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 52460000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 48950000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 50920000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 49290000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 50570000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 47810000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 48480000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+--------------------------------------------------------------------------------
+one: ([(0, 1, 50180000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 52460000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 48960000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 50920000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 49290000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 50580000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 47810000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 48480000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 1.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 1.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 50180000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 52460000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 48960000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 50920000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 49300000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 50580000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 47810000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 48480000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 1.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 0.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 50180000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 52460000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 48960000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 50920000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 49300000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 50580000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 47820000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 48490000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 1.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 1.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 50290000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 52600000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 49080000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 51020000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 49380000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 50660000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 47870000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 48570000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 36.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 40.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 50540000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 52850000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 49320000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 51260000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 49620000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 50910000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 48120000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 48820000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 98.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 99.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 50790000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 53110000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 49570000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 51510000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 49870000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 51160000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 48370000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 49070000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 100.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 101.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 51040000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 53360000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 49830000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 51760000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 50120000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 51410000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 48620000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 49330000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 101.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 101.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 51290000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 53610000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 50070000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 52010000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 50370000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 51670000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 48870000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 49570000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 99.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 100.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 51550000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 53860000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 50330000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 52260000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 50630000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 51920000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 49130000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 49830000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 104.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 101.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 51800000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 54120000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 50580000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 52520000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 50880000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 52170000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 49380000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 50080000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 100.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 102.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 52060000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 54380000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 50840000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 52770000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 51140000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 52420000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 49630000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 50330000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 103.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 101.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 52300000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 54620000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 51090000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 53020000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 51390000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 52670000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 49890000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 50580000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 100.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 99.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 52550000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 54880000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 51340000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 53270000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 51640000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 52930000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 50140000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 50840000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 100.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 103.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 52800000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 55130000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 51590000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 53520000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 51900000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 53180000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 50390000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 51090000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 101.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 100.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 53060000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 55380000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 51850000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 53780000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 52140000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 53440000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 50630000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 51340000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 100.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 102.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 53310000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 55640000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 52090000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 54030000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 52390000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 53680000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 50890000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 51600000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 100.0 ['one', 'three', 'five', 'seven']
+1: 0.0 []
+2: 0.0 []
+3: 101.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 53600000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 55880000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 52370000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 54280000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 52690000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 53930000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 51190000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 51840000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 89.0 ['one', 'five', 'seven']
+1: 28.0 ['three']
+2: 0.0 []
+3: 98.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 53940000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 56140000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 52650000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 54530000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 53020000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 54180000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 51510000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 52100000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 99.0 ['one', 'five', 'seven']
+1: 28.0 ['three']
+2: 0.0 []
+3: 102.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 54270000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 56390000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 52920000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 54780000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 53350000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 54440000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 51850000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 52350000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 100.0 ['one', 'five', 'seven']
+1: 27.0 ['three']
+2: 0.0 []
+3: 101.0 ['two', 'four', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 54600000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 56690000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 53210000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 55040000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 53680000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 54730000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 52180000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 52650000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 99.0 ['one', 'five', 'seven']
+1: 29.0 ['three']
+2: 26.0 ['four']
+3: 89.0 ['two', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 54930000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 57020000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 53460000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 55290000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 54020000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 55060000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 52510000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 52980000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 100.0 ['one', 'five', 'seven']
+1: 25.0 ['three']
+2: 25.0 ['four']
+3: 99.0 ['two', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 55260000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 57350000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 53720000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 55540000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 54350000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 55400000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 52840000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 53300000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 99.0 ['one', 'five', 'seven']
+1: 26.0 ['three']
+2: 25.0 ['four']
+3: 99.0 ['two', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 55580000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 57680000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 54020000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 55840000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 54670000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 55720000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 53170000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 53640000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 65.0 ['five', 'seven']
+1: 30.0 ['three']
+2: 62.0 ['one', 'four']
+3: 99.0 ['two', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 55810000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 58000000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 54250000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 56070000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 54910000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 56060000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 53400000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 53970000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 47.0 ['five', 'seven']
+1: 23.0 ['three']
+2: 46.0 ['one', 'four']
+3: 99.0 ['two', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 56090000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 58330000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 54540000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 56350000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 55190000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 56390000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 53680000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 54300000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 56.0 ['five', 'seven']
+1: 29.0 ['three']
+2: 56.0 ['one', 'four']
+3: 99.0 ['two', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 56370000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 58640000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 54820000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 56630000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 55470000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 56700000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 53960000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 54620000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 56.0 ['five', 'seven']
+1: 60.0 ['three', 'eight']
+2: 56.0 ['one', 'four']
+3: 62.0 ['two', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 56660000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 58930000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 55110000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 56910000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 55760000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 56990000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 54250000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 54900000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 58.0 ['five', 'seven']
+1: 57.0 ['three', 'eight']
+2: 57.0 ['one', 'four']
+3: 58.0 ['two', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 56940000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 59230000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 55400000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 57200000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 56040000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 57290000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 54540000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 55190000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 57.0 ['five', 'seven']
+1: 58.0 ['three', 'eight']
+2: 57.0 ['one', 'four']
+3: 60.0 ['two', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 57230000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 59520000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 55680000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 57480000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 56330000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 57560000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 54830000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 55460000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 58.0 ['five', 'seven']
+1: 55.0 ['three', 'eight']
+2: 57.0 ['one', 'four']
+3: 56.0 ['two', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 57500000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 59800000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 55960000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 57760000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 56620000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 57860000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 55110000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 55750000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 57.0 ['five', 'seven']
+1: 57.0 ['three', 'eight']
+2: 55.0 ['one', 'four']
+3: 58.0 ['two', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 57800000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 60090000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 56250000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 58050000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 56910000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 58150000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 55410000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 56040000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 59.0 ['five', 'seven']
+1: 58.0 ['three', 'eight']
+2: 59.0 ['one', 'four']
+3: 58.0 ['two', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 58080000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 60380000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 56550000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 58330000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 57200000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 58430000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 55700000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 56340000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 58.0 ['five', 'seven']
+1: 60.0 ['three', 'eight']
+2: 56.0 ['one', 'four']
+3: 57.0 ['two', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 58360000000L, 2)], [(False, False, True, False)])
+two: ([(0, 1, 60670000000L, 3)], [(False, False, False, True)])
+three: ([(0, 1, 56850000000L, 1)], [(False, True, False, False)])
+four: ([(0, 1, 58610000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 57510000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 58720000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 56000000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 56640000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 61.0 ['five', 'seven']
+1: 60.0 ['three', 'eight']
+2: 56.0 ['one', 'four']
+3: 58.0 ['two', 'six']
+--------------------------------------------------------------------------------
+^CTraceback (most recent call last):
+  File "./monitor.py", line 72, in <module>
+    s.run()
+  File "/usr/lib/python2.7/sched.py", line 111, in run
+    delayfunc(time - now)
+KeyboardInterrupt
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./killall.py 
+one stop running.
+two stop running.
+three stop running.
+four stop running.
+five stop running.
+six stop running.
+seven stop running.
+eight stop running.
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./killall.py monitor[C[C[C[Cmake[K clean./master-test-runner.ssh 1[A]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ [11Pmake clean
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./monitor.py killall[C[C[C[C[K./killall.py monitor[C[C[C[Cmake[K clean./master-test-runner.ssh 1[A]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chtopsudo apt install htop [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chtop[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscreenfetch[7Phtopsudo apt install htop [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chtop[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit./master-test-runner.ssh 1[A]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ [11Pmake clean
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./monitor.py killall[C[C[C[C[Kscript testcase-3.log [A
+Script started, file is testcase-3.log
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./monitor.py 
+one: ([(0, 1, 61590000000L, 2)], [(True, False, False, False)])
+two: ([(0, 1, 81040000000L, 3)], [(False, True, False, False)])
+three: ([(0, 1, 60290000000L, 1)], [(False, False, True, False)])
+four: ([(0, 1, 78840000000L, 2)], [(False, False, False, True)])
+five: ([(0, 1, 60740000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 62070000000L, 3)], [(False, True, False, False)])
+seven: ([(0, 1, 59250000000L, 0)], [(False, False, True, False)])
+eight: ([(0, 1, 60000000000L, 1)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+--------------------------------------------------------------------------------
+one: ([(0, 1, 61590000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 81040000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 60290000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 78850000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 60740000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 62080000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 59250000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 60000000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 0.0 ['one', 'five']
+1: 1.0 ['two', 'six']
+2: 0.0 ['three', 'seven']
+3: 1.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 61590000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 81040000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 60290000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 78850000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 60740000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 62080000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 59250000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 60000000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 0.0 ['one', 'five']
+1: 0.0 ['two', 'six']
+2: 0.0 ['three', 'seven']
+3: 0.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 61600000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 81040000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 60290000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 78850000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 60740000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 62080000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 59250000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 60000000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 1.0 ['one', 'five']
+1: 0.0 ['two', 'six']
+2: 0.0 ['three', 'seven']
+3: 0.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 61810000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 81250000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 60430000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 79020000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 60900000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 62270000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 59450000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 60180000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 37.0 ['one', 'five']
+1: 40.0 ['two', 'six']
+2: 34.0 ['three', 'seven']
+3: 35.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 62090000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 81530000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 60720000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 79300000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 61190000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 62550000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 59740000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 60450000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 57.0 ['one', 'five']
+1: 56.0 ['two', 'six']
+2: 58.0 ['three', 'seven']
+3: 55.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 62360000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 81790000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 60990000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 79570000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 61450000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 62810000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 60010000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 60710000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 53.0 ['one', 'five']
+1: 52.0 ['two', 'six']
+2: 54.0 ['three', 'seven']
+3: 53.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 62660000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 82100000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 61300000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 79880000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 61770000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 63120000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 60310000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 61030000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['one', 'five']
+1: 62.0 ['two', 'six']
+2: 61.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 62990000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 82410000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 61610000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 80190000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 62090000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 63430000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 60630000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 61350000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 65.0 ['one', 'five']
+1: 62.0 ['two', 'six']
+2: 63.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 63300000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 82720000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 61920000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 80510000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 62400000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 63740000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 60940000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 61660000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['one', 'five']
+1: 62.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 63610000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 83030000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 62220000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 80820000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 62710000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 64060000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 61250000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 61980000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['one', 'five']
+1: 63.0 ['two', 'six']
+2: 61.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 63920000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 83350000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 62540000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 81140000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 63030000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 64370000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 61560000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 62300000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['one', 'five']
+1: 63.0 ['two', 'six']
+2: 63.0 ['three', 'seven']
+3: 64.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 64250000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 83660000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 62850000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 81460000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 63340000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 64680000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 61870000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 62610000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 64.0 ['one', 'five']
+1: 62.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 64560000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 83980000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 63160000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 81770000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 63660000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 64990000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 62180000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 62930000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['one', 'five']
+1: 63.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 64860000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 84300000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 63470000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 82090000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 63970000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 65320000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 62490000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 63230000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 61.0 ['one', 'five']
+1: 65.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 62.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 65170000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 84610000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 63780000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 82410000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 64270000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 65630000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 62800000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 63550000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 61.0 ['one', 'five']
+1: 62.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 64.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 65480000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 84920000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 64080000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 82710000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 64590000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 65940000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 63100000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 63870000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['one', 'five']
+1: 62.0 ['two', 'six']
+2: 60.0 ['three', 'seven']
+3: 62.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 65790000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 85240000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 64390000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 83030000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 64890000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 66260000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 63410000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 64190000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 61.0 ['one', 'five']
+1: 64.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 64.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 66100000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 85540000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 64700000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 83350000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 65200000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 66570000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 63710000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 64500000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['one', 'five']
+1: 61.0 ['two', 'six']
+2: 61.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 66410000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 85860000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 65010000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 83660000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 65510000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 66890000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 64020000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 64810000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['one', 'five']
+1: 64.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 62.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 66720000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 86170000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 65310000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 83980000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 65820000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 67190000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 64330000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 65120000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['one', 'five']
+1: 61.0 ['two', 'six']
+2: 61.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 67040000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 86480000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 65620000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 84290000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 66140000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 67500000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 64630000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 65440000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 64.0 ['one', 'five']
+1: 62.0 ['two', 'six']
+2: 61.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 67350000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 86800000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 65940000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 84600000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 66460000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 67820000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 64950000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 65760000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['one', 'five']
+1: 64.0 ['two', 'six']
+2: 64.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 67670000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 87100000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 66240000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 84910000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 66770000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 68120000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 65250000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 66060000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['one', 'five']
+1: 60.0 ['two', 'six']
+2: 60.0 ['three', 'seven']
+3: 61.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 67980000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 87410000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 66550000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 85220000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 67080000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 68440000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 65560000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 66370000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['one', 'five']
+1: 63.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 62.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 68300000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 87730000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 66850000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 85540000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 67390000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 68750000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 65870000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 66680000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['one', 'five']
+1: 63.0 ['two', 'six']
+2: 61.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 68620000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 88060000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 67180000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 85860000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 67720000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 69090000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 66190000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 67010000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 65.0 ['one', 'five']
+1: 67.0 ['two', 'six']
+2: 65.0 ['three', 'seven']
+3: 65.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 68950000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 88380000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 67510000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 86180000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 68060000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 69410000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 66520000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 67340000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 67.0 ['one', 'five']
+1: 64.0 ['two', 'six']
+2: 66.0 ['three', 'seven']
+3: 65.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 69280000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 88700000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 67810000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 86500000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 68380000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 69720000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 66840000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 67650000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 65.0 ['one', 'five']
+1: 63.0 ['two', 'six']
+2: 62.0 ['three', 'seven']
+3: 63.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 69580000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 89000000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 68120000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 86800000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 68680000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 70020000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 67140000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 67950000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 60.0 ['one', 'five']
+1: 60.0 ['two', 'six']
+2: 61.0 ['three', 'seven']
+3: 60.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 69880000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 89300000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 68410000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 87100000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 68990000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 70330000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 67440000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 68260000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 61.0 ['one', 'five']
+1: 61.0 ['two', 'six']
+2: 59.0 ['three', 'seven']
+3: 61.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+^CTraceback (most recent call last):
+  File "./monitor.py", line 72, in <module>
+    s.run()
+  File "/usr/lib/python2.7/sched.py", line 111, in run
+    delayfunc(time - now)
+KeyboardInterrupt
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./lo[K[Kkillall.py 
+one stop running.
+two stop running.
+three stop running.
+four stop running.
+five stop running.
+six stop running.
+seven stop running.
+eight stop running.
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./script[K[K[K[K[K[K[K[Kscript testcase-4.log [A
+Script started, file is testcase-4.log
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./monitor.py 
+one: ([(0, 1, 91870000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 111550000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 90610000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 109400000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 90950000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 92500000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 89680000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 90540000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+--------------------------------------------------------------------------------
+one: ([(0, 1, 91870000000L, 0)], [(True, False, False, False)])
+two: ([(0, 1, 111550000000L, 1)], [(False, True, False, False)])
+three: ([(0, 1, 90620000000L, 2)], [(False, False, True, False)])
+four: ([(0, 1, 109400000000L, 3)], [(False, False, False, True)])
+five: ([(0, 1, 90950000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 92500000000L, 1)], [(False, True, False, False)])
+seven: ([(0, 1, 89680000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 90540000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 0.0 ['one', 'five']
+1: 0.0 ['two', 'six']
+2: 1.0 ['three', 'seven']
+3: 0.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 91870000000L, 0)], [(True, True, True, True)])
+two: ([(0, 1, 111550000000L, 1)], [(True, True, True, True)])
+three: ([(0, 1, 90620000000L, 2)], [(True, True, True, True)])
+four: ([(0, 1, 109410000000L, 3)], [(True, True, True, True)])
+five: ([(0, 1, 90950000000L, 0)], [(True, True, True, True)])
+six: ([(0, 1, 92500000000L, 1)], [(True, True, True, True)])
+seven: ([(0, 1, 89680000000L, 2)], [(True, True, True, True)])
+eight: ([(0, 1, 90540000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 0.0 ['one', 'five']
+1: 0.0 ['two', 'six']
+2: 0.0 ['three', 'seven']
+3: 1.0 ['four', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 91870000000L, 2)], [(True, True, True, True)])
+two: ([(0, 1, 111550000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 90620000000L, 2)], [(True, True, True, True)])
+four: ([(0, 1, 109410000000L, 2)], [(True, True, True, True)])
+five: ([(0, 1, 90950000000L, 2)], [(True, True, True, True)])
+six: ([(0, 1, 92500000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 89680000000L, 3)], [(True, True, True, True)])
+eight: ([(0, 1, 90540000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 ['one', 'two', 'three', 'four', 'five', 'six', 'eight']
+3: 0.0 ['seven']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 91870000000L, 2)], [(True, True, True, True)])
+two: ([(0, 1, 111550000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 90620000000L, 2)], [(True, True, True, True)])
+four: ([(0, 1, 109410000000L, 2)], [(True, True, True, True)])
+five: ([(0, 1, 90950000000L, 2)], [(True, True, True, True)])
+six: ([(0, 1, 92500000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 89680000000L, 3)], [(True, True, True, True)])
+eight: ([(0, 1, 90540000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 ['one', 'two', 'three', 'four', 'five', 'six', 'eight']
+3: 0.0 ['seven']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 91870000000L, 3)], [(True, True, True, True)])
+two: ([(0, 1, 111550000000L, 3)], [(True, True, True, True)])
+three: ([(0, 1, 90620000000L, 3)], [(True, True, True, True)])
+four: ([(0, 1, 109410000000L, 3)], [(True, True, True, True)])
+five: ([(0, 1, 90950000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 92500000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 89690000000L, 3)], [(True, True, True, True)])
+eight: ([(0, 1, 90540000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 ['six']
+3: 1.0 ['one', 'two', 'three', 'four', 'five', 'seven', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 92050000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 111830000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 90820000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 109700000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 91190000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 92810000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 89910000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 90800000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 42.0 ['three', 'seven']
+1: 47.0 ['one', 'four']
+2: 59.0 ['two', 'six']
+3: 50.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 92330000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 112100000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 91090000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 109980000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 91460000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 93080000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 90180000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 91070000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 54.0 ['three', 'seven']
+1: 56.0 ['one', 'four']
+2: 54.0 ['two', 'six']
+3: 54.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 92630000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 112390000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 91390000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 110260000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 91750000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 93370000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 90480000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 91360000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 60.0 ['three', 'seven']
+1: 58.0 ['one', 'four']
+2: 58.0 ['two', 'six']
+3: 58.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 92930000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 112710000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 91700000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 110580000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 92060000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 93690000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 90790000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 91660000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'seven']
+1: 62.0 ['one', 'four']
+2: 64.0 ['two', 'six']
+3: 61.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 93240000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 113030000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 92010000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 110890000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 92380000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 94000000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 91110000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 91980000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['three', 'seven']
+1: 62.0 ['one', 'four']
+2: 63.0 ['two', 'six']
+3: 64.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 93560000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 113340000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 92330000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 111200000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 92680000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 94310000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 91420000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 92290000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['three', 'seven']
+1: 63.0 ['one', 'four']
+2: 62.0 ['two', 'six']
+3: 61.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 93860000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 113660000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 92650000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 111510000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 93000000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 94630000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 91730000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 92610000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['three', 'seven']
+1: 61.0 ['one', 'four']
+2: 64.0 ['two', 'six']
+3: 64.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 94170000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 113960000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 92950000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 111820000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 93320000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 94940000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 92050000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 92920000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'seven']
+1: 62.0 ['one', 'four']
+2: 61.0 ['two', 'six']
+3: 63.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 94490000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 114280000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 93260000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 112140000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 93630000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 95250000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 92350000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 93240000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 61.0 ['three', 'seven']
+1: 64.0 ['one', 'four']
+2: 63.0 ['two', 'six']
+3: 63.0 ['five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 94810000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 114600000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 93590000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 112460000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 93950000000L, 0)], [(True, True, True, True)])
+six: ([(0, 1, 95570000000L, 3)], [(True, True, True, True)])
+seven: ([(0, 1, 92680000000L, 2)], [(True, True, True, True)])
+eight: ([(0, 1, 93550000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 65.0 ['three', 'five']
+1: 64.0 ['one', 'four']
+2: 65.0 ['two', 'seven']
+3: 63.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 95110000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 114910000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 93890000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 112760000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 94250000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 95880000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 92990000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 93860000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 60.0 ['three', 'five']
+1: 60.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 95420000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 115220000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 94210000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 113070000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 94570000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 96200000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 93300000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 94170000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 64.0 ['three', 'five']
+1: 62.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 63.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 95740000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 115530000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 94510000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 113380000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 94880000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 96510000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 93610000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 94490000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 61.0 ['three', 'five']
+1: 63.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 63.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 96060000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 115840000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 94830000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 113700000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 95190000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 96810000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 93920000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 94790000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['three', 'five']
+1: 64.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 60.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 96370000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 116150000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 95140000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 114020000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 95510000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 97130000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 94230000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 95110000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['three', 'five']
+1: 63.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 64.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 96680000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 116460000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 95450000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 114330000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 95810000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 97440000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 94540000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 95410000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 61.0 ['three', 'five']
+1: 62.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 61.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 97000000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 116780000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 95760000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 114650000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 96130000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 97740000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 94860000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 95730000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['three', 'five']
+1: 64.0 ['one', 'four']
+2: 64.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 97310000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 117090000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 96070000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 114960000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 96440000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 98050000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 95170000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 96040000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'five']
+1: 62.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 97630000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 117400000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 96380000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 115280000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 96750000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 98360000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 95490000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 96350000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'five']
+1: 64.0 ['one', 'four']
+2: 63.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 97940000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 117710000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 96700000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 115600000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 97060000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 98680000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 95800000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 96670000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['three', 'five']
+1: 63.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 64.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 98250000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 118030000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 97010000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 115910000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 97370000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 99000000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 96120000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 96970000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'five']
+1: 62.0 ['one', 'four']
+2: 64.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 98560000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 118350000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 97320000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 116220000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 97680000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 99310000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 96440000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 97290000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'five']
+1: 62.0 ['one', 'four']
+2: 64.0 ['two', 'seven']
+3: 63.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 98880000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 118660000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 97640000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 116540000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 98000000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 99610000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 96750000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 97600000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 64.0 ['three', 'five']
+1: 64.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 61.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 99200000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 118980000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 97960000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 116850000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 98320000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 99930000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 97070000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 97920000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 64.0 ['three', 'five']
+1: 63.0 ['one', 'four']
+2: 64.0 ['two', 'seven']
+3: 64.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 99510000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 119300000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 98270000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 117180000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 98640000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 100240000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 97380000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 98220000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 63.0 ['three', 'five']
+1: 64.0 ['one', 'four']
+2: 63.0 ['two', 'seven']
+3: 61.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 99830000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 119610000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 98580000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 117490000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 98950000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 100550000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 97690000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 98530000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'five']
+1: 63.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 100150000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 119920000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 98890000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 117800000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 99260000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 100860000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 98010000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 98840000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'five']
+1: 63.0 ['one', 'four']
+2: 63.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 100460000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 120240000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 99200000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 118120000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 99570000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 101170000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 98320000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 99150000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'five']
+1: 63.0 ['one', 'four']
+2: 63.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 100770000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 120550000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 99510000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 118430000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 99880000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 101480000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 98630000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 99460000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 62.0 ['three', 'five']
+1: 62.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 62.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 101100000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 120860000000L, 2)], [(False, False, True, False)])
+three: ([(0, 1, 99840000000L, 0)], [(True, False, False, False)])
+four: ([(0, 1, 118750000000L, 1)], [(False, True, False, False)])
+five: ([(0, 1, 100210000000L, 0)], [(True, False, False, False)])
+six: ([(0, 1, 101800000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 98940000000L, 2)], [(False, False, True, False)])
+eight: ([(0, 1, 99780000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 66.0 ['three', 'five']
+1: 65.0 ['one', 'four']
+2: 62.0 ['two', 'seven']
+3: 64.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+^CTraceback (most recent call last):
+  File "./monitor.py", line 72, in <module>
+    s.run()
+  File "/usr/lib/python2.7/sched.py", line 111, in run
+    delayfunc(time - now)
+KeyboardInterrupt
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./killall.py 
+one stop running.
+two stop running.
+three stop running.
+four stop running.
+five stop running.
+six stop running.
+seven stop running.
+eight stop running.
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ script testcase-5.log [A
+Script started, file is testcase-5.log
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./monitor.py 
+one: ([(0, 1, 103850000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 123690000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 102600000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 121530000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 102900000000L, 0)], [(True, True, True, True)])
+six: ([(0, 1, 104640000000L, 3)], [(True, True, True, True)])
+seven: ([(0, 1, 101760000000L, 2)], [(True, True, True, True)])
+eight: ([(0, 1, 102630000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+--------------------------------------------------------------------------------
+one: ([(0, 1, 103850000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 123690000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 102600000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 121530000000L, 1)], [(True, True, True, True)])
+five: ([(0, 1, 102900000000L, 0)], [(True, True, True, True)])
+six: ([(0, 1, 104640000000L, 3)], [(True, True, True, True)])
+seven: ([(0, 1, 101760000000L, 2)], [(True, True, True, True)])
+eight: ([(0, 1, 102640000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 0.0 ['three', 'five']
+1: 0.0 ['one', 'four']
+2: 0.0 ['two', 'seven']
+3: 1.0 ['six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 103850000000L, 2)], [(True, True, True, True)])
+two: ([(0, 1, 123690000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 102600000000L, 2)], [(True, True, True, True)])
+four: ([(0, 1, 121530000000L, 2)], [(True, True, True, True)])
+five: ([(0, 1, 102900000000L, 2)], [(True, True, True, True)])
+six: ([(0, 1, 104640000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 101760000000L, 2)], [(True, True, True, True)])
+eight: ([(0, 1, 102640000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight']
+3: 0.0 []
+--------------------------------------------------------------------------------
+one: ([(0, 1, 103860000000L, 2)], [(True, True, True, True)])
+two: ([(0, 1, 123700000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 102600000000L, 2)], [(True, True, True, True)])
+four: ([(0, 1, 121530000000L, 2)], [(True, True, True, True)])
+five: ([(0, 1, 102900000000L, 2)], [(True, True, True, True)])
+six: ([(0, 1, 104640000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 101760000000L, 2)], [(True, True, True, True)])
+eight: ([(0, 1, 102640000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 2.0 ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight']
+3: 0.0 []
+--------------------------------------------------------------------------------
+one: ([(0, 1, 104110000000L, 3)], [(True, True, True, True)])
+two: ([(0, 1, 123910000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 102840000000L, 1)], [(True, True, True, True)])
+four: ([(0, 1, 121850000000L, 0)], [(True, True, True, True)])
+five: ([(0, 1, 103100000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 104810000000L, 3)], [(True, True, True, True)])
+seven: ([(0, 1, 101970000000L, 1)], [(True, True, True, True)])
+eight: ([(0, 1, 102810000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 32.0 ['four']
+1: 45.0 ['three', 'seven']
+2: 38.0 ['two', 'eight']
+3: 62.0 ['one', 'five', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 104500000000L, 0)], [(True, True, True, True)])
+two: ([(0, 1, 124310000000L, 3)], [(True, True, True, True)])
+three: ([(0, 1, 103260000000L, 3)], [(True, True, True, True)])
+four: ([(0, 1, 122290000000L, 0)], [(True, True, True, True)])
+five: ([(0, 1, 103260000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 104950000000L, 3)], [(True, True, True, True)])
+seven: ([(0, 1, 102110000000L, 1)], [(True, True, True, True)])
+eight: ([(0, 1, 102960000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 83.0 ['one', 'four']
+1: 14.0 ['seven']
+2: 15.0 ['eight']
+3: 112.0 ['two', 'three', 'five', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 104970000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 124740000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 103720000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 122710000000L, 3)], [(True, True, True, True)])
+five: ([(0, 1, 103400000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 105100000000L, 3)], [(True, True, True, True)])
+seven: ([(0, 1, 102280000000L, 1)], [(True, True, True, True)])
+eight: ([(0, 1, 103140000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 46.0 ['three']
+1: 64.0 ['one', 'seven']
+2: 61.0 ['two', 'eight']
+3: 71.0 ['four', 'five', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 105430000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 125190000000L, 2)], [(True, True, True, True)])
+three: ([(0, 1, 104190000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 123140000000L, 3)], [(True, True, True, True)])
+five: ([(0, 1, 103570000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 105270000000L, 0)], [(True, True, True, True)])
+seven: ([(0, 1, 102460000000L, 1)], [(True, True, True, True)])
+eight: ([(0, 1, 103300000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 64.0 ['three', 'six']
+1: 64.0 ['one', 'seven']
+2: 61.0 ['two', 'eight']
+3: 60.0 ['four', 'five']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 105890000000L, 2)], [(True, True, True, True)])
+two: ([(0, 1, 125660000000L, 3)], [(True, True, True, True)])
+three: ([(0, 1, 104640000000L, 1)], [(True, True, True, True)])
+four: ([(0, 1, 123620000000L, 0)], [(True, True, True, True)])
+five: ([(0, 1, 103740000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 105440000000L, 0)], [(True, True, True, True)])
+seven: ([(0, 1, 102640000000L, 3)], [(True, True, True, True)])
+eight: ([(0, 1, 103460000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 65.0 ['four', 'six']
+1: 45.0 ['three']
+2: 62.0 ['one', 'eight']
+3: 82.0 ['two', 'five', 'seven']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 106360000000L, 2)], [(True, True, True, True)])
+two: ([(0, 1, 126070000000L, 3)], [(True, True, True, True)])
+three: ([(0, 1, 105130000000L, 1)], [(True, True, True, True)])
+four: ([(0, 1, 124100000000L, 0)], [(True, True, True, True)])
+five: ([(0, 1, 103900000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 105620000000L, 0)], [(True, True, True, True)])
+seven: ([(0, 1, 102800000000L, 3)], [(True, True, True, True)])
+eight: ([(0, 1, 103640000000L, 2)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 66.0 ['four', 'six']
+1: 49.0 ['three']
+2: 65.0 ['one', 'eight']
+3: 73.0 ['two', 'five', 'seven']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 106830000000L, 3)], [(True, True, True, True)])
+two: ([(0, 1, 126530000000L, 1)], [(True, True, True, True)])
+three: ([(0, 1, 105630000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 124580000000L, 2)], [(True, True, True, True)])
+five: ([(0, 1, 104060000000L, 1)], [(True, True, True, True)])
+six: ([(0, 1, 105780000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 102990000000L, 3)], [(True, True, True, True)])
+eight: ([(0, 1, 103790000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 50.0 ['three']
+1: 62.0 ['two', 'five']
+2: 64.0 ['four', 'six']
+3: 81.0 ['one', 'seven', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 107300000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 126940000000L, 3)], [(True, True, True, True)])
+three: ([(0, 1, 106120000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 125050000000L, 2)], [(True, True, True, True)])
+five: ([(0, 1, 104230000000L, 3)], [(True, True, True, True)])
+six: ([(0, 1, 105960000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 103160000000L, 1)], [(True, True, True, True)])
+eight: ([(0, 1, 103940000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 49.0 ['three']
+1: 64.0 ['one', 'seven']
+2: 65.0 ['four', 'six']
+3: 73.0 ['two', 'five', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 107780000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 127410000000L, 3)], [(True, True, True, True)])
+three: ([(0, 1, 106610000000L, 0)], [(True, True, True, True)])
+four: ([(0, 1, 125470000000L, 2)], [(True, True, True, True)])
+five: ([(0, 1, 104370000000L, 2)], [(True, True, True, True)])
+six: ([(0, 1, 106110000000L, 2)], [(True, True, True, True)])
+seven: ([(0, 1, 103330000000L, 1)], [(True, True, True, True)])
+eight: ([(0, 1, 104110000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 49.0 ['three']
+1: 65.0 ['one', 'seven']
+2: 71.0 ['four', 'five', 'six']
+3: 64.0 ['two', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 108270000000L, 1)], [(True, True, True, True)])
+two: ([(0, 1, 127880000000L, 0)], [(True, True, True, True)])
+three: ([(0, 1, 107020000000L, 3)], [(True, True, True, True)])
+four: ([(0, 1, 125950000000L, 2)], [(True, True, True, True)])
+five: ([(0, 1, 104550000000L, 2)], [(True, True, True, True)])
+six: ([(0, 1, 106260000000L, 3)], [(True, True, True, True)])
+seven: ([(0, 1, 103500000000L, 0)], [(True, True, True, True)])
+eight: ([(0, 1, 104270000000L, 3)], [(True, True, True, True)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 49.0 ['one']
+2: 66.0 ['four', 'five']
+3: 72.0 ['three', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 108750000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 128350000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 107420000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 126410000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 104720000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 106440000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 103680000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 104430000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 48.0 ['one']
+2: 63.0 ['four', 'five']
+3: 74.0 ['three', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 109250000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 128830000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 107820000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 126880000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 104900000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 106610000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 103870000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 104600000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 67.0 ['two', 'seven']
+1: 50.0 ['one']
+2: 65.0 ['four', 'five']
+3: 74.0 ['three', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 109730000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 129300000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 108230000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 127360000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 105080000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 106760000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 104050000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 104750000000L, 3)], [(False, False, False, True)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 48.0 ['one']
+2: 66.0 ['four', 'five']
+3: 71.0 ['three', 'six', 'eight']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 110210000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 129770000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 108680000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 127820000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 105250000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 106930000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 104220000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 104930000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 66.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 62.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 110680000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 130230000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 109150000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 128290000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 105430000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 107100000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 104400000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 105100000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 111140000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 130700000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 109610000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 128740000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 105600000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 107280000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 104580000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 105290000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 65.0 ['one', 'eight']
+2: 62.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 111600000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 131150000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 110070000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 129210000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 105780000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 107460000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 104770000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 105470000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 112080000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 131610000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 110530000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 129670000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 105950000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 107630000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 104940000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 105650000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 63.0 ['two', 'seven']
+1: 66.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 112560000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 132090000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 111010000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 130150000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 106120000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 107800000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 105100000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 105810000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 113020000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 132560000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 111480000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 130610000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 106280000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 107970000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 105280000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 105980000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 62.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 113490000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 133030000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 111950000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 131080000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 106460000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 108140000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 105450000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 106160000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 65.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 113970000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 133510000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 112430000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 131550000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 106620000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 108310000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 105630000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 106340000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 66.0 ['two', 'seven']
+1: 66.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 114430000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 133980000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 112900000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 132010000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 106790000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 108490000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 105810000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 106500000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 62.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 114900000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 134450000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 113360000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 132480000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 106960000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 108660000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 105980000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 106670000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 115380000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 134910000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 113840000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 132950000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 107130000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 108830000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 106140000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 106840000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 62.0 ['two', 'seven']
+1: 65.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 115840000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 135380000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 114300000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 133410000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 107300000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 109000000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 106320000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 107010000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 116310000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 135850000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 114780000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 133880000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 107470000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 109170000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 106500000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 107180000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 116780000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 136330000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 115260000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 134360000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 107640000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 109340000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 106670000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 107340000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 117250000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 136800000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 115720000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 134820000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 107800000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 109510000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 106840000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 107510000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 62.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 117720000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 137270000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 116200000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 135280000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 107970000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 109680000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 107010000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 107680000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 118190000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 137750000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 116660000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 135740000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 108130000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 109850000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 107180000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 107840000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 62.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 118660000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 138230000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 117140000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 136220000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 108300000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 110020000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 107350000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 108010000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 119140000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 138700000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 117610000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 136680000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 108460000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 110190000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 107520000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 108180000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 65.0 ['one', 'eight']
+2: 62.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 119610000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 139180000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 118080000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 137150000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 108630000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 110360000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 107690000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 108340000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 120080000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 139650000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 118550000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 137620000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 108800000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 110520000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 107870000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 108520000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 65.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 120560000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 140140000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 119030000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 138090000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 108960000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 110690000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 108040000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 108680000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 66.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 121050000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 140620000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 119510000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 138580000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 109130000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 110860000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 108210000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 108850000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 66.0 ['one', 'eight']
+2: 66.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 121520000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 141100000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 119980000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 139060000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 109300000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 111020000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 108390000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 109010000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 66.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 121990000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 141580000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 120440000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 139520000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 109460000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 111200000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 108560000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 109180000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 62.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 122460000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 142050000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 120910000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 139980000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 109640000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 111360000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 108730000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 109340000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 122920000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 142520000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 121370000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 140450000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 109800000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 111520000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 108910000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 109510000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 62.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 123390000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 143000000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 121840000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 140920000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 109980000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 111700000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 109090000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 109680000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 66.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 123870000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 143480000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 122300000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 141380000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 110140000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 111860000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 109260000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 109840000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 62.0 ['four', 'five']
+3: 62.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 124330000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 143950000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 122770000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 141850000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 110310000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 112030000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 109420000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 110010000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 63.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 64.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 124800000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 144420000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 123230000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 142320000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 110470000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 112180000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 109590000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 110190000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 65.0 ['one', 'eight']
+2: 63.0 ['four', 'five']
+3: 61.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 125270000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 144900000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 123700000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 142790000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 110650000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 112360000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 109770000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 110360000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 66.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 65.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 125740000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 145370000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 124160000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 143260000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 110820000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 112530000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 109940000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 110520000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 63.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 126210000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 145850000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 124620000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 143720000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 110980000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 112700000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 110110000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 110690000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 62.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 126680000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 146320000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 125080000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 144190000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 111150000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 112860000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 110290000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 110860000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 65.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 62.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 127150000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 146790000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 125540000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 144660000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 111320000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 113030000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 110460000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 111030000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 64.0 ['two', 'seven']
+1: 64.0 ['one', 'eight']
+2: 64.0 ['four', 'five']
+3: 63.0 ['three', 'six']
+--------------------------------------------------------------------------------
+one: ([(0, 1, 127590000000L, 1)], [(False, True, False, False)])
+two: ([(0, 1, 147270000000L, 0)], [(True, False, False, False)])
+three: ([(0, 1, 125960000000L, 3)], [(False, False, False, True)])
+four: ([(0, 1, 145110000000L, 2)], [(False, False, True, False)])
+five: ([(0, 1, 111520000000L, 2)], [(False, False, True, False)])
+six: ([(0, 1, 113220000000L, 3)], [(False, False, False, True)])
+seven: ([(0, 1, 110670000000L, 0)], [(True, False, False, False)])
+eight: ([(0, 1, 111240000000L, 1)], [(False, True, False, False)])
+--------------------------------------------------------------------------------
+0: 69.0 ['two', 'seven']
+1: 65.0 ['one', 'eight']
+2: 65.0 ['four', 'five']
+3: 61.0 ['three', 'six']
+--------------------------------------------------------------------------------
+^CTraceback (most recent call last):
+  File "./monitor.py", line 72, in <module>
+    s.run()
+  File "/usr/lib/python2.7/sched.py", line 111, in run
+    delayfunc(time - now)
+KeyboardInterrupt
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./killall.py 
+one stop running.
+two stop running.
+three stop running.
+four stop running.
+five stop running.
+six stop running.
+seven stop running.
+eight stop running.
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ ./[K[Kcd ..
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test[00m$ ls
+[0m[01;32massignfiletoallvm.py[0m  [01;34mmemory[0m         [01;32msetallmaxmemory.py[0m  [01;32mstartallvm.py[0m
+[01;34mcpu[0m                   [01;32mpinallcpu0.py[0m  [01;32msetallmemory.py[0m     vmlist.conf
+[01;32mdestroyallvm.py[0m       README.md      [01;32mshutdownallvm.py[0m
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test[00m$ c[K./shutdownallvm.py 
+Shutdown one.
+Shutdown two.
+Shutdown three.
+Shutdown four.
+Shutdown five.
+Shutdown six.
+Shutdown seven.
+Shutdown eight.
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test[00m$ cd cpu
+]0;saka@ubuntu: ~/Documents/6210/cs6210Project1_test/test/cpu[01;32msaka@ubuntu[00m:[01;34m~/Documents/6210/cs6210Project1_test/test/cpu[00m$ clear[K[K[K[K[Kls
+[0m[01;32massignall.sh[0m    [01;32mmaster-test-runner.sh[0m  [01;32mruntest3.py[0m     testcase

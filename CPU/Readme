@@ -1,0 +1,1 @@
+run make in this directory to compile vcpu scheduler, after changing the corresponding CPU_SCHED_PATH variable in master-test-runner script, it works as expected.
